@@ -1,4 +1,4 @@
-###command
+### Command
 
 ```
 $ pkg update && pkg upgrade

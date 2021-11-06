@@ -1,4 +1,5 @@
 ### Command
+ <img src="https://github.com/XNSCODE/cookie/blob/main/image/file.jpg">
 
 ```
 $ pkg update && pkg upgrade

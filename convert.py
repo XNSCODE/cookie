@@ -1,3 +1,6 @@
+#Code by Yayan XD.
+#Open source code
+
 import requests, re
 from time import sleep as waktu
 
